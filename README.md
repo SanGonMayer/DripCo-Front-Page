@@ -1,2 +1,2 @@
-# Convención para codear: snake_case
+# Convención para codear: camelCase
 # Nombramiento de archivos en inglés
